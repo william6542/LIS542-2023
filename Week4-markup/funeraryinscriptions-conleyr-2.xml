@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funeraryinscription>
+    <symbol type="insignia"> family crest </symbol>
+    <name> Augusta Ada Lovelace </name>
+    <lineage type="paternal"> George Gordon Noel
+        <lineageTitle type="paternal title"> Lord Byron </lineageTitle>
+    </lineage>
+    <lineage type="marriage"> William 
+        <lineageTitle type="marriage title"> Earl of Lovelace </lineageTitle>
+    </lineage>
+    <lifespan>
+        <date type="DOB"> 10th Dec 1815 </date>
+        <date type="DOD"> 27th Nov 1852 </date> 
+    </lifespan>
+    <inscription> R.I.P. </inscription>
+</funeraryinscription>

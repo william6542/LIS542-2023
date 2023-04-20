@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funeraryinscription>
+    <name> Publius Oppius </name>
+    <lineage type="tribe"> Camilia </lineage>
+    <occupation type="military"> soldier
+        <occupationGroup type="Legion"> Legio V Macedonica </occupationGroup>
+        <occupationRole type="rank"> optio </occupationRole>
+        <occupationTime type="yearsServed"> 9 </occupationTime>
+    </occupation>
+    <lifespan>
+        <age type="years"> 30 </age>
+    </lifespan>
+</funeraryinscription>

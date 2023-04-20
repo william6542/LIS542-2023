@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funeraryinscription>
+    <symbol type="religious"> angel </symbol>
+    <name> Joseph Alger </name>
+    <occupation type="military"> Captain </occupation>
+    <lifespan>
+        <age type="years"> 25 </age>
+        <age type="months"> 11 </age>
+        <age type="days"> 6 </age>
+        <date type="DOD"> 21st Jun 1794 </date> 
+    </lifespan>
+</funeraryinscription>
+
