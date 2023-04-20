@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document> <!-- This is the beginning of the document as a whole -->
+    <div> <!-- This is the beginning of the Peanuts section -->
+        <header>
+            <title>Peanuts</title> by <author><name>Charles Schulz</name></author>. <date when="1957-05-11">May 11, 1957</date>
+        </header>
+        <lineBreak/>
+        <comicStrip> <!-- This is the beginning of the Peanuts comic strip -->
+            <panel n="1">
+                <character position="left" name="Lucy"/>
+                <character position="right" name="Charlie Brown"/>
+                <environment feature="grass" position="bottom"/>
+                <textbox type="information" position="top-left">
+                    <title>Peanuts</title>
+                </textbox>
+                <copyright style="normal">INELLIGIBLE</copyright>
+                <text type="dialogue" style="normal" source="Charlie Brown">PEOPLE COME, AND<lineBreak/>PEOPLE GO, BUT<lineBreak/>THE EARTH KEEPS<lineBreak/>ON SPINNING..</text>
+            </panel>
+            <panel n="2">
+                <character position="left" name="Lucy"/>
+                <character position="right" name="Charlie Brown"/>
+                <environment feature="brick wall" position="bottom"/>
+                <text n="1" type="dialogue" style="normal" source="Lucy">"SPINNING"?<lineBreak/>WHAT DO YOU<lineBreak/>MEAN<lineBreak/>"SPINNING"?</text>
+                <text n="2" type="dialogue" style="normal" source="Charlie Brown">SPINNING THROUGH<lineBreak/>SPACE..THE EARTH<lineBreak/>KEEPS ON SPINNING<lineBreak/>THROUGH SPACE..</text>
+            </panel>
+            <panel n="3">
+                <character position="left" name="Lucy"/>
+                <character position="right" name="Charlie Brown"/>
+                <environment feature="tears" position="left"/>
+                <environment feature="shadow" position="bottom"/>
+                <text n="1" type="onomatopoeia" style="normal" source="Lucy">HAHAHAHAHA!!!</text>
+                <text n="2" type="dialogue" style="normal" source="Charlie Brown">?</text>
+            </panel>
+            <panel n="4">
+                <character position="left" name="Lucy"/>
+                <character position="right" name="Charlie Brown"/>
+                <environment feature="tears" position="left"/>
+                <text n="1" type="dialogue" style="normal" source="Lucy">OH, MY, <name>CHARLIE BROWN</name>! YOU<lineBreak/>MAY NOT BE THE <b>BRIGHTEST</b><lineBreak/>PERSON IN THE WORLD, BUT YOU<lineBreak/>SURE HAVE SOME <b>IMAGINATION</b>!</text>
+                <text n="2" type="dialogue" style="normal" source="Charlie Brown">good<lineBreak/>grief!</text>
+                <date when="1957-05-11">5-11</date>
+                <author><name>Schulz</name></author>
+            </panel>
+        </comicStrip>
+        <lineBreak/>
+        <link type="url"><u>https://www.gocomics.com/peanuts/1957/05/11</u></link>
+    </div>
+    <lineBreak/> <!-- large gap between comic sections -->
+    <div> <!-- This is the beginning of the For Better or For Worse section -->
+            <header>
+                <title>For Better or For Worse</title> by <author><name>Lynn Johnston</name></author>. <date when="2018-05-28">May 28, 2018</date>
+        </header>
+        <lineBreak/>
+        <comicStrip> <!-- This is the beginning of the For Better or For Worse comic -->
+            <panel n="1">
+                <character position="center" name="Mike"/>
+                <environment feature="door" position="right"/>
+                <environment feature="dust" position="top-right, center-right, bottom-right"/>
+                <environment feature="motion lines" position="left-to-center"/>
+                <text n="1" type="onomatopoeia" style="bold, colored" source="door">SLAM! <star/><lineBreak/><star/></text>
+            </panel>
+            <date when="2018-05-28">05-28</date> <!-- Date and link exist outside panels but between them -->
+            <link type="url">www.fborfw.com</link>
+            <panel n="2">
+                <character position="right" name="Deanna"/>
+                <environment feature="sandwich ingredients" position="bottom"/>
+                <text n="1" type="onomatopoeia" style="bold, colored" source="off-scene">SLAM!<star/><lineBreak/><star/>WHAM!</text>
+                <text n="2" type="onomatopoeia" style="bold, colored" source="off-screen">BANG<lineBreak/>!!</text>
+                <text n="3" type="decorative" style="normal">JAM</text>
+            </panel>
+            <copyright style="normal">C 2018 Lynn Johnston Productions Inc. / Dist. By Andrews McMeel Syndication</copyright> <!-- Copyright exists outside panels but between them -->
+            <panel n="3">
+                <character position="foreground-left" name="Deanna"/>
+                <environment feature="door" position="center"/>
+                <environment feature="shadow" position="background-center"/>
+                <environment feature="motion lines" position="left-to-center"/>
+                <environment feature="rug" position="bottom"/>
+                <text n="1" type="onomatopoeia" style="bold, colored" source="door"><star/><star/><lineBreak/>SLAM!<lineBreak/><star/></text>
+            </panel>
+            <panel n="4">
+                <character position="background-center" name="Deanna"/>
+                <character position="foreground-center" name="Mike"/>
+                <environment feature="exterior window" position="left"/>
+                <environment feature="doorway" position="background"/>
+                <environment feature="exeterior window" position="right"/>
+                <environment feature="bush" position="left"/>
+                <text n="1" type="dialogue" style="normal" source="Deanna">A LITTLE TESTY THIS<lineBreak/>MORNING, ARE WE?!!</text>
+                <author><name>Lynn</name></author>
+            </panel>
+        </comicStrip>
+        <link type="url"><u>https://www.gocomics.com/forbetterorforworse/2018/05/28</u></link>
+    </div>
+    <pageBreak/> <!-- page break between comic sections is outside the div sections of the comics themselves -->
+    <div> <!-- This is the beginning of the Nancy Classics section -->
+        <header>
+            <title>Nancy Classics</title> by <author><name>Ernie Bushmiller</name></author>. <date when="2021-08-16">August 16, 2021</date>.
+        </header>
+        <comicStrip> <!-- This is the beginning of the Nancy Classics comic -->
+            <panel n="1">
+                <character position="left" name="Nancy"/>
+                <character position="right" name="Fritzi"/>
+                <environment feature="drawers" position="left"/>
+                <environment feature="cookie jar"/>
+                <environment feature="dooway" position="right"/>
+                <text n="1" type="dialogue" style="normal" source="Fritzi">NANCY---I BOUGHT<lineBreak/>YOU A WHOLE JAR OF<lineBreak/>COOKIES ALL FOR<lineBreak>YOURSELF</lineBreak></text>
+            </panel>
+            <panel n="2">
+                <character position="background-center" name="Nancy"/>
+                <character position="foreground-left" name="Fritzi"/>
+                <environment feature="wall" position="middleground-left"/>
+                <environment feature="picture" position="background-top-right"/>
+                <environemnt feature="coffee table" position="background-right"/>
+                <environment feature="cookie jar" position="background-right"/>
+                <text n="1" type="dialogue" style="normal" source="Fritzi">THAT'S ODD---<lineBreak/>SHE'S NOT<lineBreak/>EATING THEM</text>
+                <date when="12-02">DEC - 2</date>
+            </panel>
+            <panel n="3">
+                <character position="center" name="Nancy"/>
+                <environment feature="cookie jar" position="center"/>
+                <author>-<name>ERNIE<lineBreak/>BUSHMILLER</name></author>
+                <copyright style="normal">UNINTELLIGIBLE</copyright>
+            </panel>
+            <panel n="4">
+                <character position="top-right" name="Nancy"/>
+                <character position="left" name="Fritzi"/>
+                <environment feature="cookie jar" position="top-right"/>
+                <environment feature="dish shelves" position="right"/>
+                <environment feature="stacked items" position="center"/>
+                <text n="1" type="dialogue" style="normal" source="Nancy">I ENJOY<lineBreak/>THEM<lineBreak/>MORE<lineBreak/>THIS<lineBreak/>WAY</text>
+            </panel>
+        </comicStrip>
+        <link type="url"><u>https://www.gocomics.com/nancy-clssics/2021/08/16</u></link>
+    </div>
+    <lineBreak/> <!-- large gap between comic sections -->
+    <div> <!-- This is the beginning of the Spider-man section -->
+        <header>
+            <title>Spiderman</title> by <author n="1"><name>Stan Lee</name></author> and <author n="2"><name>Larry Lieber</name></author>. <date when="1980-30-11">November 30, 1980</date>
+        </header>
+        <comicStrip> <!-- This is the beginning of the Spider-man comic -->
+            <panel n="1">
+                <character position="left" name="Bank Teller"/>
+                <character position="right" name="Spider-man"/>
+                <environment feature="green floor" position="background"/>
+                <text n="1" type="dialogue" style="normal" source="Bank Teller">ANY <b><i>IDENTIFICATION?</i></b></text>
+                <text n="2" type="dialogue" style="normal" source="Spider-man">LOOK AT MY<lineBreak/><b><i>COSTUME!</i></b> WHO<lineBreak/>DO YOU <b><i>THINK</i></b><lineBreak/>I  <b><i>AM</i></b>?!!</text>
+                <text n="3" type="dialogue" style="normal" source="Bank Teller"><b><i>ANYONE</i></b> CAN RENT A<lineBreak>COSTUME!</lineBreak></text>
+                <textbox type="information" position="bottom-right">
+                    <author style="normal">STAN<lineBreak/>LEE<lineBreak/>+<lineBreak/>LARRY<lineBreak/>LIEBER</author><lineBreak/>
+                    <date when="1980-30-11">11-30</date>
+                </textbox>
+            </panel>
+            <panel n="2">
+                <character position="foreground-left" name="Green Hat Man"/>
+                <character position="background-left" name="Bank Teller"/>
+                <character position="background-right" name="Spider-man"/>
+                <character position="foreground-right" name="Red Hair Man"/>
+                <environment feature="service desk" position="background-center"/>
+                <text n="1" type="dialogue" style="normal" source="Bank Teller">DRIVER'S<lineBreak/>LICENSE?<lineBreak/>SOCIAL<lineBreak/>SECURITY?</text>
+                <text n="2" type="dialogue" style="normal" source="Spider-man">LOOK! I'VE  A<lineBreak/><b><i>SECRET IDENTITY!</i></b><lineBreak/>I CAN'T BLOW  MY<lineBreak/><b><i>COVER!</i></b></text>
+            </panel>
+            <panel n="3">
+                <character position="left" name="Spider-man"/>
+                <character position="center-left" name="Black Hair Woman"/>
+                <character position="center-right" name="Green Hat Man"/>
+                <character position="background-right" name="Red Hair Man"/>
+                <character position="background-right" name="Pink Hair Woman"/>
+                <character position="foreground-right" name="Bank Teller"/>
+                <environment feature="sense lines" position="center"/>
+                <environment feature="check" position="bottom-center"/>
+                <text n="1" type="dialogue" style="normal" source="Bank Teller">AND <b><i>WE</i></b> CAN'T<lineBreak/>CASH JUST<lineBreak/><b><i>ANY</i></b> OLD<lineBreak/>CHECK!</text>
+                <text n="2" teype="dialogue" style="normal" source="Bank Teller">AND  YOU'RE<lineBreak/>HOLDING UP THE<lineBreak/><b><i>LINE!</i></b></text>
+            </panel>
+            <panel n="4">
+                <character position="right" name="Spider-man"/>
+                <environment feature="city skyline" position="background"/>
+                <environment feature="building wall" position="right"/>
+                <text n="1" type="dialogue" style="normal" source="Spider-man">I FINALLY GET<lineBreak/>$2,000-- AND<lineBreak/><b><i>I CAN'T CASH<lineBreak/>THE CHECK!</i></b></text>
+                <text n="2" type="dialogue" style="normal" source="Spider-man"><b><i>O.K.!</i></b><lineBreak/>THERE'S ONLY<lineBreak/><b><i>ONE</i></b> THING<lineBreak/>LEFT TO DO!</text>
+                <textbox type="narrator" position="bottom-left">
+                    <text n="3" type="narration" style="normal" source="narrator">NEXT: <b><i>THE BREAKING POINT!</i></b></text>
+                </textbox>
+            </panel>
+        </comicStrip>
+    </div>
+</document>
