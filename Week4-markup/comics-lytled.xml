@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <header>    
+        <title>Comics Mark Up</title>
+        <student> Darlene Lytle</student>
+        <date when="2023-04-21"/>
+        <description>A page of four comic strips compiled for the purpose of XML markup practice in LIS 542.</description>
+    </header>
+    <break/>
+    <comic n="1">
+        <about>
+            <title>Peanuts</title>
+            <creator> Charles Schulz</creator>
+            <date when="1957-09-27">May 11, 1957</date>
+            <source url="https://www.gocomics.com/peanuts/1957/05/11" />
+            <printing>black and white</printing>
+        </about>
+        <strip>
+            <dimensions>
+                <height> 1 1/2 in.</height>
+                <length> 7 in. </length>
+            </dimensions>
+            <border color="#383838"/> 
+            <panel n="1"> 
+                <dimensions>
+                    <width> 1 5/8 in.</width>
+                </dimensions>
+                <description>
+                    <characters>
+                        <person n="1">Lucy</person>
+                        <authority>https://www.peanuts.com/about/lucy</authority>
+                        <person n="2">Charlie Brown</person>
+                        <authority>https://www.peanuts.com/about/charlie-brown</authority>
+                    </characters>
+                    <bubbles>
+                        <bubble n="1"><type> speech</type><speaker>Charlie Brown</speaker><line>smooth</line><text color="black"                                    capitalization="yes">PEOPLE COME AND PEOPLE GO BUT THE EARTH KEEPS ON SPINNING</text></bubble>
+                    </bubbles>
+                    <objects>
+                        <object n="1">grass</object>
+                    </objects>
+                    <action><character>Lucy</character><direction>right</direction>talk</action>
+                    <action><character>Charlie Brown</character><direction>right</direction>lean</action>
+                </description>
+            </panel>
+            <break n="1"/>
+            <panel n="2">
+                <dimensions>
+                    <width> 1 5/8 in.</width>
+                </dimensions>
+                <description>
+                    <characters>
+                        <person n="1">Lucy</person>
+                        <authority>https://www.peanuts.com/about/lucy</authority>
+                        <person n="2">Charlie Brown</person>
+                        <authority>https://www.peanuts.com/about/charlie-brown</authority>
+                    </characters>
+                    <objects>
+                        <object n="1">brick wall</object>
+                    </objects>
+                    <bubbles>
+                        <bubble n="1"><type>speech</type><speaker>Lucy</speaker><line>smooth</line><text color="black" capitalization="yes">"SPINNING"? WHAT DO YOU MEAN "SPINNING"?</text></bubble>
+                        <bubble n="2"><type> speech</type><speaker>Charlie Brown</speaker><line>smooth</line><text color="black"                                    capitalization="yes">SPINNING THROUGH SPACE...THE EARTH KEEPS ON SPINNING THROUGH SPACE...</text></bubble>
+                    </bubbles>
+                    <actions>
+                       <action><character>Lucy</character><direction>forward</direction>lean</action>
+                        <action><character>Lucy</character><direction>right</direction>talk</action>
+                        <action><character>Charlie Brown</character><direction>forward</direction>lean</action>
+                        <action><character>Charlie Brown</character><direction>forward</direction>talk</action>
+                    </actions>
+                </description>
+            </panel>
+            <break n="2"/>
+            <panel n="3">
+                <dimensions>
+                    <width> 1 5/8 in.</width>
+                </dimensions>
+                <description>
+                    <characters>
+                        <person n="1">Lucy</person>
+                        <authority>https://www.peanuts.com/about/lucy</authority>
+                        <person n="2">Charlie Brown</person>
+                        <authority>https://www.peanuts.com/about/charlie-brown</authority>
+                    </characters>
+                    <objects>
+                        <object n="1">shadow</object>
+                    </objects>
+                    <emenata>
+                        <emenata n="1"><from>Lucy Pelt</from><type>text</type><location>top</location><text>HAHAHAHAHA!!!</text></emenata>
+                        <emenata n="2"><from>Lucy</from><direction>right</direction><type>sweatdrop</type></emenata>
+                        <emenata n="3"><from>Lucy</from><direction>left</direction><type>sweatdrop</type></emenata>                          </emenata>
+                    <bubbles>
+                        <bubble n="1"><type> speech</type><speaker>Charlie Brown</speaker><line>smooth</line><text color="black" >?</text></bubble>
+                    </bubbles>
+                    <actions>
+                        <action><character>Lucy</character><direction>right</direction>laugh</action>
+                        <action><character>Charlie Brown</character><direction>left</direction>stare</action>
+                    </actions>
+                </description>
+            </panel>
+            <break n="3"/>
+            <panel n="4">
+                <dimensions>
+                    <width> 1 5/8 in.</width>
+                </dimensions>
+                <description>
+                    <characters>
+                        <person n="1">Lucy</person>
+                        <authority>https://www.peanuts.com/about/lucy</authority>
+                        <person n="2">Charlie Brown</person>
+                        <authority>https://www.peanuts.com/about/charlie-brown</authority>
+                    </characters>
+                    <objects>
+                        <object n="1">date</object>
+                        <object n="2">suthor signature</object>
+                    </objects>
+                    <emenata>
+                        <emenata n="1"><from>Lucy</from><direction>left</direction><type>sweatdrop</type></emenata> 
+                    </emenata>
+                    <bubbles>
+                        <bubble n="1"><type> speech</type><speaker>Lucy</speaker><line>smooth</line><text color="black" capitalization="yes">OH, MY CHARLIE BROWN! YOU MAY NOT BE THE <bold>BRIGHTEST</bold> PERSON IN THE WORLD, BUT YOU SURE HAVE SOME <bold>IMAGINATION</bold>!</text></bubble>
+                        <bubble n="2"><type> speech</type><speaker>Charlie Brown</speaker><line>smooth</line><text color="black"                                    capitalization="no">good grief!</text></bubble>
+                    </bubbles>
+                    <actions>
+                       <action><character>Lucy</character><direction>forward</direction>laugh</action>
+                       <action><character>Lucy</character><direction>right</direction>hug</action>
+                       <action><character>Charlie Brown</character><direction>forward</direction>stare</action>
+                    </actions>
+                </description>
+            </panel>
+        </strip>
+    </comic>  
+    <break/>
+    <comic n="2">
+        <about>
+            <title>For Better or For Worse</title>
+            <creator> Lynn Johnston</creator>
+            <date when="2018-04-28">May 28, 2018</date>
+            <source url="https://www.gocomics.com/forbetterorforworse/2018/05/28" />
+            <printing>color</printing>
+        </about>
+        <strip>
+            <dimensions>
+                <height> 2 1/2 in.</height>
+                <length> 7 in. </length>
+            </dimensions>
+            <border color= "#131414"/>
+            <panel n="1">
+                <dimensions>  
+                    <width> 1 1/2 in.</width>
+                </dimensions>
+                <description>
+                    <characters>
+                        <person n="1">Michael Patterson</person>
+                        <authority>https://www.fborfw.com/char_pgs/lateryears/index.php?page=michael</authority>
+                    </characters>
+                    <objects>
+                        <object n="1">door</object>
+                    </objects>
+                    <emenatas>
+                        <emenata n="1"><from>Michael Patterson</from><type>wind</type></emenata>
+                        <emenata n="2"><from>the door</from><type>wind</type></emenata>
+                        <emenata n="3"><from>bubble</from><type>stars</type></emenata> 
+                    </emenatas>
+                    <bubbles>
+                        <bubble n="1"><type>sound</type><line>not smooth</line><text color="#cf825c" capitalization="yes">SLAM!</text></bubble>
+                    </bubbles>
+                        <actions>
+                            <action><character>Michael Patterson</character><direction>right</direction>door slam</action>
+                        </actions>
+                </description>
+            </panel>
+            <gutter n="1">
+                <description>
+                    <note>Speach bubbles bleed into top right side border.</note></description>
+            </gutter>
+            <panel n="2">
+                <dimensions>  
+                    <width> 1 1/2 in.</width>
+                </dimensions>
+                <description>
+                    <characters>
+                        <person n="1">Deanna Sobinski</person>
+                        <authority>https://www.fborfw.com/char_pgs/lateryears/index.php?page=dee</authority>
+                    </characters>
+                    <objects>
+                        <object n="1">knife</object>
+                    </objects>
+                    <emenatas>
+                        <emenata n="1"><from>bubble</from><type>stars</type></emenata>
+                        <emenata n="2"><from>knife</from><type>movement lines</type></emenata>
+                    </emenatas>
+                    <bubbles>
+                        <bubble n="1"><type>sound</type><line>not smooth</line><text color = "#cf825c" capitalization="yes">SLAM!</text></bubble>
+                        <bubble n="2"><type>sound</type><line>not smooth</line><text color = "#e5d046" capitalization="yes">WHAM!</text></bubble>
+                        <bubble n="3"><type>sound</type><line>not smooth</line><text color = "#cf825c" capitalization="yes">BANG!!</text></bubble>
+                        #e5d046
+                    </bubbles>                        
+                    <actions>
+                        <action><character>Deanna Sobinski</character><direction>right</direction>knife drop</action>
+                    </actions>
+                </description>
+            </panel>
+            <gutter n="2">
+                <description><note>Speach bubbles bleed into top right side border.</note>
+                </description>
+            </gutter>
+            <panel n="3">
+                <dimensions>  
+                    <width> 1 1/2 in.</width>
+                </dimensions>
+                <description>
+                    <characters>
+                        <person n="1">Deanna Sobinski</person>
+                        <authority>https://www.fborfw.com/char_pgs/lateryears/index.php?page=dee</authority>
+                    </characters>
+                    <objects>
+                        <object n="1">door</object>
+                    </objects>
+                    <emenata>
+                        <emenata n="1"><from>door</from><type>text</type><location>middle right</location><text>SLAM!</text></emenata>                        <emenata n="2"><from>door</from><direction>right</direction><type>wind</type></emenata>
+                        <emenata n="3"><from>door</from><direction>left</direction><type>stars</type></emenata>
+                    </emenata>
+                    <actions>
+                        <action><character>Deanna Sobinski</character><direction>backward</direction>stare</action>
+                    </actions>
+                </description>
+            </panel>
+            <gutter n="3">
+                <description>
+                    <note>Speach bubbles bleed into top right side border.</note>
+                </description>
+            </gutter>
+            <panel n="4">
+                <dimensions>  
+                    <width> 1 1/2 in.</width>
+                </dimensions>
+                <description>
+                    <characters>
+                        <person n="1">Michael Patterson</person>
+                        <authority>https://www.fborfw.com/char_pgs/lateryears/index.php?page=michael</authority>
+                        <person n="2">Deanna Sobinski</person>
+                        <authority>https://www.fborfw.com/char_pgs/lateryears/index.php?page=dee</authority>
+                    </characters>
+                    <bubbles>
+                        <bubble n="1"><type> speech</type><speaker>Deanna Sobinski</speaker><line>smooth</line><text color="black" capitalization="yes">A LITTLE TESTY TIHIS MORNING ARE WE?!!</text></bubble>
+                    </bubbles>
+                    <actions>
+                    <action><character>Deanna Sobinski</character><direction>forward</direction>yell</action>
+                    <action><character>Michael Patterson</character><direction>forward</direction>glare</action>
+                    </actions>
+                </description>
+            </panel>
+            <gutter n="4"> 
+            <description>
+                <note>Author signature bleeds into the botton right border.</note>
+            </description>
+            </gutter>        
+        </strip>
+    </comic>  
+    <break/>
+    <comic n="3">
+        <about>
+            <title>Nancy Classics</title>
+            <creator>Ernie Bushmiller</creator>
+            <date when="2021-08-16"> August 16, 2021</date>
+            <source url="https://www.gocomics.com/nancy-clssics/2021/08/16" />
+            <printing>black and white</printing>
+        </about>
+        <strip>
+            <dimensions>
+                <border color= "#1c1c1c"/>
+                <height> 2 in.</height>
+                <length> 7 in. </length>
+            </dimensions>
+            <panel n="1">
+                <dimensions>  
+                    <width> 2 in.</width>
+                </dimensions>
+                <description>
+                    <characters>
+                        <person n="1">Nancy Ritz</person>
+                        <authority>https://en.wikipedia.org/wiki/Nancy_(comic_strip)</authority>
+                        <person n="2">Aunt Fritzi Ritz</person>
+                        <authority>https://en.wikipedia.org/wiki/Nancy_(comic_strip)</authority>
+                    </characters>
+                    <objects>
+                        <object n="1">cookie jar</object>
+                    </objects>
+                    <bubbles>
+                        <bubble n="1"><type>speech</type><speaker>Aunt Fritzi Ritz</speaker><line>smooth</line><text color="black"                                    capitalization="yes">NANCY --- I BOUGHT YOU A WHOLE JAR OF COOKIES ALL FOR YOURSELF</text></bubble>
+                    </bubbles>
+                    <actions>
+                        <action><character>Nancy Ritz</character><direction>right</direction>look</action>
+                       <action><character>Aunt Fritzi Ritz</character><direction>left</direction>talk</action>
+                        <action><character>Aunt Fritzi Ritz</character><direction>left</direction>carry</action>
+                    </actions>
+                </description>
+            </panel>
+            <gutter n="1"/>
+            <panel n="2">
+               <dimensions>  
+                   <width> 1 1/2 in.</width>
+                </dimensions>
+                <description>
+                    <characters>
+                        <person n="1">Nancy Ritz</person>
+                        <authority>https://en.wikipedia.org/wiki/Nancy_(comic_strip)</authority>
+                        <person n="2">Aunt Fritzi Ritz</person>
+                        <authority>https://en.wikipedia.org/wiki/Nancy_(comic_strip)</authority>
+                    </characters>
+                    <objects>
+                        <object n="1">cookie jar</object>
+                        <object n="2">date</object>
+                    </objects>
+                    <bubbles>
+                        <bubble n="1"><type>speech</type><speaker>Aunt Fritzi Ritz</speaker><line>smooth</line><text color="black"                                    capitalization="yes">THAT'S ODD --- SHE'S NOT EATING THEM</text></bubble>
+                    </bubbles>
+                    <actions>
+                        <action><character>Aunt Fritzi Ritz</character><direction>right</direction>talk</action>
+                        <action><character>Nancy Ritz</character><direction>right</direction>look</action>
+                    </actions>
+                </description>
+            </panel>
+            <gutter n="2"/>
+            <panel n="3">
+               <dimensions>  
+                   <width> 1 1/4 in.</width>
+                </dimensions>
+                <dimensions>  
+                    <width> 1 1/2 in.</width>
+                </dimensions>
+                <description>
+                    <characters>
+                        <person n="1">Nancy Ritz</person>
+                        <authority>https://en.wikipedia.org/wiki/Nancy_(comic_strip)</authority>
+                        <person n="2">Aunt Fritzi Ritz</person>
+                        <authority>https://en.wikipedia.org/wiki/Nancy_(comic_strip)</authority>
+                    </characters>
+                    <objects>
+                        <object n="1">cookie jar</object>
+                        <object n="2">creator signature</object>
+                        <object n="3">copyright information</object>
+                    </objects>
+                    <actions>
+                        <action><character>Nancy Ritz</character><direction>right</direction>walk</action>
+                        <action><character>Nancy Ritz</character><direction>right</direction>carry</action>
+                    </actions>
+                </description>
+            </panel>
+            <gutter n="3"/>
+            <panel n="4">
+                <dimensions>  
+                    <width> 2 in.</width>
+                </dimensions>
+                    <description>
+                        <characters>
+                            <person n="1">Nancy Ritz</person>
+                            <authority>https://en.wikipedia.org/wiki/Nancy_(comic_strip)</authority>
+                            <person n="2">Aunt Fritzi Ritz</person>
+                            <authority>https://en.wikipedia.org/wiki/Nancy_(comic_strip)</authority>
+                        </characters>
+                        <objects>
+                            <object n="1">cookie jar</object>
+                        </objects>
+                        <bubbles>
+                            <bubble n="1"><type>speech</type><speaker>Nancy Ritz</speaker><line>smooth</line><text color="black"                                    capitalization="yes">I ENJOY THEM MORE THIS WAY</text></bubble>
+                        </bubbles>
+                        <actions>
+                           <action> <character>Aunt Fritzi Ritz</character><direction>up right</direction>look</action>
+                            <action><character>Nancy Ritz</character><direction>down left</direction>eat</action>
+                        </actions>
+                    </description>
+            </panel>
+            <gutter n="4"/>
+        </strip>
+    </comic>  
+    <break/>
+    <comic n="4">
+        <about>
+            <title>Spiderman</title>
+            <creator>Stan Lee and Larry Lieber</creator>
+            <date when="2021-08-16"> November 30, 1980</date>
+            <printing>color</printing>
+        </about>
+        <strip>
+            <border color= "#323233"/>
+            <dimensions>
+                <height> 1 1/2 in.</height>
+                <length> 7 in. </length>
+            </dimensions>
+            <panel n="1">
+               <dimensions>  
+                   <width> 2 1/4 in.</width>
+                </dimensions>
+                <description>
+                    <characters>
+                        <person n="1">Banker</person>
+                        <person n="2">Spiderman</person>
+                    </characters>
+                    <objects>
+                        <object n="1">textbox<text capitalization= "yes">STAN LEE LARRY LIEBER 11-30</text><location>bottom right</location></object>
+                    </objects>
+                    <bubbles>
+                        <bubble n="1"><type> speech</type><speaker>Banker</speaker><line>smooth</line><text color="black" capitalization="yes">ANY <bold>IDENTIFICATION?</bold></text></bubble>
+                        <bubble n="2"><type> speech</type><speaker>Spiderman</speaker><line>smooth</line><text color="black"                                    capitalization="no">LOOK AT MY <bold>COSTUME!</bold> WHO DO YOU <bold>THINK</bold> I AM?</text></bubble>
+                        <bubble n="3"><type> speech</type><speaker>Banker</speaker><line>smooth</line><text color="black" capitalization="yes"><bold>ANYONE</bold> CAN RENT A COSTUME!</text></bubble>
+                    </bubbles>
+                    <actions>
+                        <action><character>Banker</character><direction>right</direction>talk</action>
+                        <action><character>Spiderman</character><direction>left</direction>talk</action>
+                    </actions>
+                </description>
+            </panel>
+            <gutter n="1"/>
+            <panel n="2">
+                <description>
+                    <characters>
+                        <person n="1">Banker</person>
+                        <person n="2">Spiderman</person>
+                        <person n="3">person with green hat</person>
+                        <person n="4">person with orange hair</person>
+                    </characters>
+                    <bubbles>
+                        <bubble n="1"><type> speech</type><speaker>Banker</speaker><line>smooth</line><text color="black" capitalization="yes">DRIVER'S LICENSE? SOCIAL SECURITY?</text></bubble>
+                        <bubble n="2"><type> speech</type><speaker>Spiderman</speaker><line>smooth</line><text color="black"                                    capitalization="no"><bold>LOOK!</bold> I'VE A <bold>SECRET IDENTITY!</bold> I CAN'T BLOW MY <BOLD>COVER!</BOLD></text></bubble>
+                    </bubbles>
+                    <actions>
+                        <action><character>Banker</character><direction>forward</direction>talk</action>
+                        <action><character>Spiderman</character><direction>backward</direction>talk</action>
+                        <action><character>person with green hat</character><direction>backward</direction>watch</action>
+                        <action><character>person with orange hair</character><direction>backward</direction>watch</action>
+                    </actions>
+                </description>
+            </panel>
+            <gutter n="2"/>
+            <panel n="3">
+                <dimensions>  
+                <width> 1 1/4 in.</width>
+                </dimensions>
+                <description>
+                    <characters>
+                        <person n="1">Banker</person>
+                        <person n="2">Spiderman</person>
+                        <person n="3">person with black hair</person>
+                        <person n="4">person with green hat</person>
+                        <person n="5">person with orange hair</person>
+                        <person n="6">person with blonde hair</person>
+                    </characters>
+                    <objects>
+                        <object n="1">check<location>bottom right</location></object>
+                    </objects>
+                    <emenatas>
+                        <emenata n="1"><from>Spiderman</from><type>lines</type></emenata>
+                    </emenatas>
+                    <bubbles>
+                        <bubble n="1"><type> speech</type><speaker>Banker</speaker><line>smooth</line><text color="black" capitalization="yes">AND <bold>WE</bold> CAN'T CASH JUST <bold>ANY</bold> OLD CHECK</text></bubble>
+                        <bubble n="2"><type> speech</type><speaker>Banker</speaker><line>smooth</line><text color="black"                                    capitalization="no">AND YOU'RE HOLDING UP THE<bold>LINE!</bold> </text></bubble>
+                    </bubbles>
+                    <actions>
+                        <action><character>Banker</character><direction>left</direction>talk</action>
+                        <action><character>Spiderman</character><direction>right</direction>look</action>
+                        <action><character>person with black hair</character><direction>forward</direction>watch</action>
+                        <action><character>person with green hat</character><direction>forward</direction>watch</action>
+                        <action><character>person with orange hair</character><direction>forward</direction>watch</action>
+                        <action><character>person with blonde hair</character><direction>forward</direction>watch</action>
+                    </actions>
+                </description>
+            </panel>
+            <gutter n="3"/>
+            <panel n="4">
+                <dimensions>
+                    <width> 1 7/8 in.</width>
+                </dimensions>
+                <description>
+                    <characters>
+                        <person n="1">Banker</person>
+                        <person n="2">Spiderman</person>
+                    </characters>
+                    <objects>
+                        <object n="1">check<location>bottom right</location></object>
+                        <object n="2"><TYPE>box</TYPE><color>#fbee68</color><text color= "black">NEST: THE BREAKING POINT</text>check<location>bottom right</location></object>
+                    </objects>
+                    <bubbles>
+                        <bubble n="1"><type>speech</type><speaker>Spiderman</speaker><line>smooth</line><text color="black" capitalization="yes">I FINALLY GET $2,000 -- AND <bold>I CAN'T CASH THE CHECK!</bold></text></bubble>
+                        <bubble n="2"><type> speech</type><speaker>Spiderman</speaker><line>smooth</line><text color="black"                                    capitalization="no"><bold>O.K.!</bold> THERE'S ONLY ONE THING LEFT TO DO!</text></bubble>
+                    </bubbles>
+                    <actions>
+                        <action><character>Spiderman</character><direction>left</direction>talk</action>
+                    </actions>
+                </description>
+            </panel>
+        </strip>
+    </comic>  
+    <break/>
+</document>
