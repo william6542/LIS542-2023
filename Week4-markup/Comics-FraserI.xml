@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Comic_Strip_Examples>
+    <Comic1>
+        <title>Peanuts</title> 
+        <Creator_Name type="person">Charles Schulz</Creator_Name>
+        <Publication_Date when="1957-05-11">5/11/1957</Publication_Date>
+        <Publisher_Name type="publisher">Fantagraphics Books</Publisher_Name>
+        <Publication_Form>Newspapers</Publication_Form>
+        <Publication_Form2>Online</Publication_Form2>
+        <Publication_Type>Series</Publication_Type>
+        <Publication_Interval>Daily</Publication_Interval>
+        <New_Comics_Being_Published>No</New_Comics_Being_Published>
+        <Subject>Comedy</Subject>
+        <Subject2>Daily Life</Subject2>
+        <Character_Name type="Character">Charlie Brown</Character_Name>
+        <Notes>Original Creator died in 2000. He asked that no one take over drawing his comic strip.</Notes>
+    </Comic1>
+<break n="2"/>
+    <Comic2>
+        <title>For Better or For Worse</title> 
+        <Creator_Name type="person">Lynn Johnston</Creator_Name>
+        <Publication_Date when="2018-05-28">5/28/2018</Publication_Date>
+        <Publisher_Name type="publisher">Lynn Johnston Productions Inc</Publisher_Name>
+        <Publication_Form>Newspapers</Publication_Form>
+        <Publication_Form2>Online</Publication_Form2>
+        <Publication_Type>Series</Publication_Type>
+        <Publication_Interval>Daily</Publication_Interval>
+        <New_Comics_Being_Published>No</New_Comics_Being_Published>
+        <Subject>Comedy</Subject>
+        <Subject2>Daily Life</Subject2>
+        <Character_Name type="Character">Elly Patterson</Character_Name>
+        <Character_Name2 type="Character">John Patterson</Character_Name2>
+        <Notes>Last Comic was created/published in 2008.</Notes>
+    </Comic2>
+<break n="3"/>
+    <Comic3>
+        <title>Nancy Classics</title> 
+        <Creator_Name type="person">Ernie Bushmiller</Creator_Name>
+        <Publication_Date when="2021-08-16">8/16/2021</Publication_Date>
+        <Publisher_Name type="publisher">United Feature Syndicate</Publisher_Name>
+        <Publisher_Name2 type="publisher">Andrews McMeel Syndicate</Publisher_Name2>
+        <Publication_Form>Newspapers</Publication_Form>
+        <Publication_Form2>Online</Publication_Form2>
+        <Publication_Type>Series</Publication_Type>
+        <Publication_Interval>Daily</Publication_Interval>
+        <New_Comics_Being_Published>Yes</New_Comics_Being_Published>
+        <Subject>Comedy</Subject>
+        <Subject2>Daily Life</Subject2>
+        <Subject3>Family</Subject3>
+        <Character_Name type="character">Nancy Ritz</Character_Name>
+        <Notes>Original author died in 1982. New comics created by guest creators. Most recent creator is Olivia Jaimes starting in 2018.</Notes>
+    </Comic3>
+<break n="4"/>
+    <Comic4>
+        <title>Spiderman</title> 
+        <Creator_Name type="person">Stan Lee</Creator_Name>
+        <Creator_Name2 type="person">Larry Lieber</Creator_Name2>
+        <Publication_Date when="1980-11-30">11/30/1980</Publication_Date>
+        <Publisher_Name type="publisher"></Publisher_Name>
+        <Publication_Form>Newspapers</Publication_Form>
+        <Publication_Type>Series</Publication_Type>
+        <Publication_Interval>Daily</Publication_Interval>
+        <New_Comics_Being_Published>No</New_Comics_Being_Published>
+        <Subject>Superheroes</Subject>
+        <Subject2>Daily Life</Subject2>
+        <Subject3>Family</Subject3>
+        <Character_Name type="Character">Spiderman</Character_Name>
+        <Notes>Original creator died in 2018. Final original comic strip was published in 2019.</Notes>
+    </Comic4>  
+</Comic_Strip_Examples> 
